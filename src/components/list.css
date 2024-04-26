@@ -1,0 +1,30 @@
+.inputNewGameBlock {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    min-width: 50vw;
+}
+
+.inputNewGameBlock input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.inputNewGameBlock button {
+    background-color: #4CAF50;
+}
+
+.filterBlock select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    margin: 10px;
+}
+
+.filterBlock select option {
+    font-size: 16px;
+}

@@ -1,0 +1,11 @@
+.card {
+    min-width: 20vw;
+    margin: 2em;
+    border: solid;
+    border-color: hsl(111, 100%, 97%);
+    border-radius: 14px;
+    box-shadow: 3px 2px 3px #0099ff79;
+  }
+  .card .deleteButton {
+    margin-bottom: 1em;
+  }
